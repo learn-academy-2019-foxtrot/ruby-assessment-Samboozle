@@ -10,12 +10,15 @@ def tripler array
 end
 
 # added another method!
+
 def three_times array
-  a = array
+  a = array.dup #makes NEW array -> not otherwise implicit
   a.each_with_index do |_, i|
      a[i] *= 3
   end
+  return a
 end
+
 
 p tripler my_array
 p three_times my_array
