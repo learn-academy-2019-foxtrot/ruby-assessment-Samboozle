@@ -136,3 +136,4 @@ puts gretchen.legs
 creature_from_the_brown_lagoon = Animal.new name: "Creature from the Brown Lagoon", color: 'brown', legs: 6
 
 puts creature_from_the_brown_lagoon
+puts creature_from_the_brown_lagoon.legs
