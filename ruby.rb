@@ -126,6 +126,7 @@ gretchen = Animal.new color: 'heliotrope', name: 'Gretchen'
 
 puts creature_no_name
 puts gretchen
+puts gretchen.legs
 
 
 
