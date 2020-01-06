@@ -16,7 +16,6 @@ def three_times array
   a.each_with_index do |_, i|
      a[i] *= 3
   end
-  return a
 end
 
 
