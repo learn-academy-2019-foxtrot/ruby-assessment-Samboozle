@@ -91,6 +91,7 @@ Choose one of these resources and look through the material for 10-15 min. List 
     procs: Short for procedure?
         researched: can be used interchangeably with 'function' or 'sub-
         routine,' though tends to be used more in non-OOP paradigms.
+        Ruby-specific => Prog stores a block in a variable to be used elsewhere
 
     lambdas: my conception is present, but foggy...
         researched: also known as an anonymous function, a lambda function
